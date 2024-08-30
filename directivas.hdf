@@ -1,0 +1,36 @@
+[Global]
+TimeZone=America/Mexico_City
+ConfigExpirationTime=2023-05-29T12:00:00
+AvailableKeyboardLayouts=latam|us|es|dvorak|
+DefaultKeyboardLayout=latam
+EventConfig=false
+ContestConfig=true
+
+[Always]
+AllowedWebsites=all
+AllowUsbStorage=true
+AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
+Bookmarks={Contest^https://boca.icpcmexico.org}|{BOCA_User_Manual^https://directives.huronos.org/icpcmx/boca_manual_teams.en.html}|
+Wallpaper=https://directives.huronos.org/icpcmx/gpmx2023_round1_always_mode.png
+WallpaperSha256=c382c20791695176be47257ec924c9df39e40534d4ac02fb23c4f3c823334fd8
+
+[Event]
+AllowedWebsites=all
+AllowUsbStorage=true
+AvailableSoftware=internet/chromium
+Bookmarks=huronOS^https://huronos.org|
+Wallpaper=default
+
+[Contest]
+AllowedWebsites=boca.icpcmexico.org|score.icpcmexico.org|icpcmexico.org|
+AllowUsbStorage=false
+AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
+Bookmarks={Contest^https://boca.icpcmexico.org}|{BOCA_User_Manual^https://directives.huronos.org/icpcmx/boca_manual_teams.en.html}|
+Wallpaper=https://directives.huronos.org/icpcmx/gpmx2023_round1_contest_mode.png
+WallpaperSha256=824d8560d35ec070589a5b72f2da85aff38203a7f6b1aee8bae7900c608d4369
+
+[Event-Times]
+
+[Contest-Times]
+2023-05-13T13:40:00 2023-05-13T19:02:00
+2023-05-27T10:50:00 2023-05-27T16:12:00
