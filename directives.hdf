@@ -1,6 +1,6 @@
 [Global]
 TimeZone=America/Mexico_City
-ConfigExpirationTime=2023-05-29T12:00:00
+ConfigExpirationTime=2025-05-29T12:00:00
 AvailableKeyboardLayouts=latam|us|es|dvorak|
 DefaultKeyboardLayout=latam
 EventConfig=false
