@@ -22,7 +22,7 @@ Bookmarks=huronOS^https://huronos.org|
 Wallpaper=default
 
 [Contest]
-AllowedWebsites=mx.score.icpcmexico.org|global.naquadah.com.br/boca|
+AllowedWebsites=mx.score.icpcmexico.org|global.naquadah.com.br/boca|global.naquadah.com.br|
 AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
 Bookmarks={Contest^global.naquadah.com.br/boca}|{BOCA_User_Manual^https://directives.huronos.org/icpcmx/boca_manual_teams.en.html}|{Score^mx.score.icpcmexico.org}
