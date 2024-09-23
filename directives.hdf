@@ -19,7 +19,8 @@ AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=internet/chromium
 Bookmarks=huronOS^https://huronos.org|
-Wallpaper=default
+Wallpaper=https://directives.huronos.org/icpcmx/gpmx2023_round1_contest_mode.png
+WallpaperSha256=824d8560d35ec070589a5b72f2da85aff38203a7f6b1aee8bae7900c608d4369
 
 [Contest]
 AllowedWebsites=mx.score.icpcmexico.org|global.naquadah.com.br/boca|global.naquadah.com.br|
