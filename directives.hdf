@@ -4,7 +4,7 @@ ConfigExpirationTime=2026-05-29T12:00:00
 AvailableKeyboardLayouts=latam|us|es|dvorak|
 DefaultKeyboardLayout=latam
 EventConfig=false
-ContestConfig=true
+ContestConfig=false
 
 [Always]
 AllowedWebsites=all
@@ -32,4 +32,3 @@ WallpaperSha256=824d8560d35ec070589a5b72f2da85aff38203a7f6b1aee8bae7900c608d4369
 [Event-Times]
 
 [Contest-Times]
-2023-08-30T01:33:00 2025-08-30T01:36:00
