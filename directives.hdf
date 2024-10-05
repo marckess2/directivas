@@ -10,7 +10,7 @@ ContestConfig=true
 AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
-Bookmarks={VI Verano de Entrenamiento^https://codeforces.com/group/RKnuCtRnNJ/contests}|
+Bookmarks={Repechaje^https://boca.icpc.mexico.org}|{BOCA_User_Manual^https://directives.huronos.org/icpcmx/boca_manual_teams.en.html}|
 Wallpaper=https://directives.huronos.org/icpcmx/gpmx2023_round1_contest_mode.png
 WallpaperSha256=824d8560d35ec070589a5b72f2da85aff38203a7f6b1aee8bae7900c608d4369
 
@@ -18,20 +18,19 @@ WallpaperSha256=824d8560d35ec070589a5b72f2da85aff38203a7f6b1aee8bae7900c608d4369
 AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=internet/chromium
-Bookmarks=huronOS^https://huronos.org|
+Bookmarks={Repechaje^https://boca.icpc.mexico.org}
 Wallpaper=https://directives.huronos.org/icpcmx/gpmx2023_round1_contest_mode.png
 WallpaperSha256=824d8560d35ec070589a5b72f2da85aff38203a7f6b1aee8bae7900c608d4369
 
 [Contest]
-AllowedWebsites=all
+AllowedWebsites=boca.icpcmexico.org|score.icpcmexico.org|icpcmexico.org|
 AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
-Bookmarks={Contest^https://codeforces.com/contestInvitation/c458569b98fe79144a0a9d1896bd02486fcbc01f}
+Bookmarks={Repechaje^https://boca.icpc.mexico.org}|{BOCA_User_Manual^https://directives.huronos.org/icpcmx/boca_manual_teams.en.html}|
 Wallpaper=https://directives.huronos.org/icpcmx/gpmx2023_round1_contest_mode.png
 WallpaperSha256=824d8560d35ec070589a5b72f2da85aff38203a7f6b1aee8bae7900c608d4369
 
 [Event-Times]
 
 [Contest-Times]
-2024-09-28T08:00:00 2024-09-28T10:30:00
-2024-09-28T10:55:00 2024-09-28T16:05:00
+2024-10-05T10:55:00 2024-10-05T16:05:00
